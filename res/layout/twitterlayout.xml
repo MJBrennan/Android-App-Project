@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:text="Twitter"
+        android:textColor="#FFFFFF"
+       
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:textSize="30dp" />
+
+    <WebView
+        android:id="@+id/fbView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.15" />
+
+   
+
+</LinearLayout>

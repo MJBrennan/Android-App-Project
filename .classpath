@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry excluding="app/tabsample/PhotoActivity.java|app/tenthavenuefreezeout/MP3MetadataParser.java|app/tenthavenuefreezeout/MP3TagParseSupport.java|app/tenthavenuefreezeout/MusicFocusable.java|app/tenthavenuefreezeout/StreamServer.java|app/tenthavenuefreezeout/IcyInputStream.java|app/tenthavenuefreezeout/TagParseEvent.java|app/tenthavenuefreezeout/TagParseListener.java|app/tenthavenuefreezeout/RssActivity.java|app/tenthavenuefreezeout/RssAdapter.java|app/tenthavenuefreezeout/RssFragment.java|app/tenthavenuefreezeout/RssItem.java|app/tenthavenuefreezeout/RssParser.java|app/tenthavenuefreezeout/RssService.java|app/tenthavenuefreezeout/HomeActivity.java|coldplay/RssReaderActivity.java|coldplay/RSSItem.java|coldplay/RSSParser.java|android/Youtube/|app/coldplay/video/Utils.java|coldplay/Utils.java|coldplay/VideoDetail.java|coldplay/VideoListAdapter.java|coldplay/YoutubeActivity.java|coldplay/YouTubePlayerActivity.java|coldplay/ImageLoader.java|coldplay/Parser.java|coldplay/StringableTag.java|coldplay/Constants2.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
